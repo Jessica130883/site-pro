@@ -4,7 +4,17 @@ html, body {
 }
 
 @media screen and (max-width: 480px) {
-nav {
-    text-align: center;
- }
+
+.circle-colour {
+    background: purple;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+.pic-dev {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    
+}
 }
