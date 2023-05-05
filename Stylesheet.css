@@ -17,4 +17,8 @@ html, body {
     border-radius: 100px;
     
 }
+.picture-computer {
+    height: 200px;
+    width: 300px;
+}
 }
